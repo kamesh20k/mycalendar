@@ -5,7 +5,7 @@ import calendar
 
 yy = 2021  # year
 mm = 12    # month
-
+dd = 30    # day
 # To take month and year input from the user
 # yy = int(input("Enter year: "))
 # mm = int(input("Enter month: "))
